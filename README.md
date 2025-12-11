@@ -1,19 +1,4 @@
-# library-POC
-
-Repository chứa các Proof of Concept (POC) cho các lỗ hổng bảo mật nhằm mục đích nghiên cứu và học tập.
-
-## Danh sách POC
-
-### CVE-2025-65945
-- **Lỗ hổng**: Improper Verification of Cryptographic Signature trong node-jws
-- **Phiên bản bị ảnh hưởng**: jws < 3.2.3, >= 4.0.0 < 4.0.1
-- **CVSS Score**: 8.2 (HIGH)
-- **Tác động**: Authentication Bypass, Privilege Escalation
-- **Thư mục**: [CVE-2025-65945/](./CVE-2025-65945/)
-- **Web Interface**: ✅ Có giao diện tương tác
-- **Tài liệu**: [README](./CVE-2025-65945/README.md)
-
-## Cách sử dụng
+# Cách sử dụng
 
 Mỗi thư mục POC chứa:
 - Code ứng dụng vulnerable
