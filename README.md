@@ -1,3 +1,9 @@
+# Thông Tin Dự Án
+
+Các thư mục này chứa các bản POC (Proof of Concept) để giáo dục và nghiên cứu bảo mật các lỗ hổng bảo mật nhằm mục đích:
+- Giáo dục và nghiên cứu bảo mật về các lỗ hổng hiểu hơn về cách lỗ hổng được thực thi trong các hệ thống thực tế
+- phục vụ viết rule cho web application firewall (WAF) đặc biết dành cho dự án nginx love hoạt động với modsecurity
+
 # Cách sử dụng
 
 Mỗi thư mục POC chứa:
